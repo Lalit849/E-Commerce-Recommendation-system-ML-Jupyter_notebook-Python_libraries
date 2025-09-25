@@ -127,7 +127,7 @@ ecommerce-recommendation-system/
     - Modals for product detail, signup/in, settings for theme and zoom.
 
 ![Recommender system Dashboard](https://github.com/Lalit849/E---Commerce-Reccomendor-System/issues/1#issue-3448957894)
-
+![Recommender system .pngs](https://github.com/Lalit849/E-Commerce-Recommendation-system-ML-Jupyter_notebook-Python_libraries/issues/1#issue-3451799081)
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
@@ -145,3 +145,4 @@ ecommerce-recommendation-system/
 Student 
 📧 Email: lalitdhakar689@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/lalit-dhakar-378101335/)  
+
